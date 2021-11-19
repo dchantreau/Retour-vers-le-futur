@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.lesdates{
+    background-color: rgb(68, 58, 58);
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    text-align: center;
+    border: 1px solid #000000;
+    width: 400px;
+}
+.formatdate{
+    background-color: red;
+    color:whitesmoke;
+    margin:10px 50px 10px;
+}
+.date{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid #000000;
+    color:yellow;
+    margin:10px 50px 10px;
+}
+h1{
+    display:flex;
+    justify-content: center;
+    margin:10px 130px 10px;
+    background-color: #000000;
+    color:whitesmoke;
+    font-size: small;
+}
+
+.presenttime{
+    border-top: 2px solid #000000;
+}
+
+.message{
+    display: flex;
+    justify-content: center;
+}
